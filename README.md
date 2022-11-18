@@ -11,3 +11,4 @@ PRN:1132220233
 Ans:
 
 ![](Capture.JPG)
+![](Capture2.JPG)
